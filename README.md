@@ -1,5 +1,8 @@
 # SignGuide AR
 
+<img width="1247" height="821" alt="image" src="https://github.com/user-attachments/assets/6da6f6a0-510e-46af-8558-90b9cb572fa7" />
+
+
 SignGuide AR is a mixed reality prototype for beginner sign language practice built for Meta Quest 3. Instead of learning from a flat image or video, users see a ghost hand in front of them and match their own tracked hand to it in 3D space.
 
 The goal is to make sign learning feel more intuitive, spatial, and accessible by turning it into an interactive embodied experience.
