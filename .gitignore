@@ -1,0 +1,82 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# Crash / debug dump folders
+SignGuide-AR_BurstDebugInformation_DoNotShip/
+*_BurstDebugInformation_DoNotShip/
+
+# =========================
+# Unity / IDE generated files
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# JetBrains Rider
+.idea/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Package manager caches
+# =========================
+.packages/
+.package-cache/
+.nuget/
+
+# =========================
+# Unity crash files / logs
+# =========================
+sysinfo.txt
+mono_crash.*
+*.stacktrace
+
+# =========================
+# Builds and binaries
+# =========================
+*.apk
+*.aab
+*.obb
+*.unitypackage
+
+# Optional: other large build artifacts
+*.app
+*.exe
+*.x86_64
+*.ipa
+
+# =========================
+# Plastic SCM
+# =========================
+.plastic/
